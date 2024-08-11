@@ -1,4 +1,4 @@
-# Gemini Pro and Gemini Vision Chat Bot
+# HeartStart AI Projec 3
 
 This project is Gemini-Pro Based AI chat bot built with Next.js 14 and TypeScript. It uses an AI model to generate responses to user input (either text or image).
 
@@ -21,16 +21,16 @@ Follow these steps to get the project up and running:
    Run the following command to create a shallow clone of the repository:
 
    ```sh
-   git clone --depth 1 https://github.com/Xeven777/gemini-chat.git
+   git clone --depth 1 https://github.com/Motseki/ai-assistance.git
    ```
 
-   This will create a new directory named `gemini-chat` in your current directory.
+   This will create a new directory named `ai-assistance` in your current directory.
 
 2. **Remove the old `.git` directory and initialize a new one:**
-   Navigate to the new `gemini-chat` directory and run the following commands:
+   Navigate to the new `ai-assistance` directory and run the following commands:
 
    ```sh
-   cd gemini-chat
+   cd ai-assistance
    rm -rf .git
    git init
    ```
@@ -63,4 +63,4 @@ Contributions are what make the open source community such an amazing place to l
 
 ### Author
 
-[Anish biswas](https://github.com/Xeven777/)
+[Lebohang Motseki](https://github.com/Motseki/)
